@@ -133,18 +133,14 @@ h2{
   text-indent: 10px;
   line-height: 35px;
 }
-
-
-ul{
-}
-ul li{
+.menu ul li {
   list-style: none;
   display: inline-block;
   float:left;
   line-height: 80px;
 
 }
-ul li a {
+.menu ul li a {
   display:block;
   text-decoration: none;
   font-size: 20px;
@@ -152,7 +148,7 @@ ul li a {
   padding: 0 20px;
 
 }
-ul li a:hover {
+.menu ul li a:hover {
   color: #ffffff;
 }
 
@@ -167,5 +163,7 @@ p{
   padding-bottom: 15px;
   text-indent: 10px;
   margin-left: 10px;
-  
+}
+.list ul li {
+  margin-left: 45px;
 }
