@@ -162,3 +162,9 @@ p {
   text-decoration: none;
   color:#b1b1b1;
 }
+.img-gallery4{
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   grid-template-rows: auto;
+   grid-gap: 20px;
+ }
