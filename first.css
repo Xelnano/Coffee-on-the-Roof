@@ -9,7 +9,7 @@ body {
 }
 .wrapper{
   margin:0 auto;
-  width:700px;
+  width:800px;
   background-color:#141414;
 }
 nav{
@@ -54,7 +54,7 @@ h2{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 500px;
+  width: 700px;
   padding: 15px;
 }
 p{
